@@ -18,4 +18,4 @@ The retail company has collected data on 200 customers containing:
 
 The goal of this project is to segment customers based on their purchasing behaviour and demographic information using unsupervised ML 
 technique to identify groups of customers with similar behaviour and characteristics. This information can be used to develop targeted marketing
-campaigns, personalize product recommendations, and optimize pricing strategies
+campaigns, personalize product recommendations, and optimize pricing strategies.
