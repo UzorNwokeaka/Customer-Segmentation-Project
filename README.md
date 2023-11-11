@@ -1,5 +1,5 @@
 # Customer-Segmentation-Project
-Customer Segmentation using unsupervised ML technique
+Customer Segmentation using unsupervised ML technique.
 
 **Business Problem:**
 
