@@ -12,7 +12,7 @@ The retail company has collected data on 200 customers containing:
 • Gender, 
 • Age, 
 • Annual_Income_(k$), 
-• Spending_Score
+• Spending_Score.
 
 **Objective:**
 
